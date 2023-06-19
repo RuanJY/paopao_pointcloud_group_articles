@@ -6,7 +6,7 @@ Archive of articles from paopao pointcloud group
 
 维护：阮建源 王志勇
 
-Maintainer： RUAN，Jianyuan， Zhiyong Wang
+Maintainer：Jianyuan RUAN， Zhiyong Wang
 
 ## 专题
 ### LOAM专题
