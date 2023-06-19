@@ -5,6 +5,38 @@ Archive of articles from paopao pointcloud group
 维护：阮建源 王志勇
 Maintainer： RUAN，Jianyuan， Zhiyong Wang
 
+## 专题
+### LOAM专题
+
+[1] LOAM系开源算法汇总：
+
+https://mp.weixin.qq.com/s/oHshRrJh39uoJ23ID6-t6g 
+
+[2] Fast-LIO & Fast-LIO2 原理及代码解析:
+
+https://mp.weixin.qq.com/s/x7dG9fxoSwejaWc4aEAQFw
+
+[3] LOAM 代价函数设计与雅可比求解详细推导（上）
+
+https://mp.weixin.qq.com/s/DdW8xJBsfK1aQvYp7Lm6Ig 
+
+[4] LOAM 代价函数设计与雅可比求解详细推导（下）
+
+https://mp.weixin.qq.com/s/Nl_3re961QdL4wUkviZN_g
+
+[5] M-LOAM多激光雷达系统和代码解析
+
+https://mp.weixin.qq.com/s/QF9NaIELU9qkNuz83P3Vyg
+
+[6] LINS算法与代码解析
+
+https://mp.weixin.qq.com/s/IKx9FpNJbZ_ZJsJaDA3Ybw
+
+
+
+
+
+## List
 | 期数  | 标题                                                       | 小编        | 链接                                                                                                     | 阅读 |
 | --- | -------------------------------------------------------- | --------- | ------------------------------------------------------------------------------------------------------ | -- |
 | 262 | 【泡泡点云时空】IA-SSD：探索点云检测任务中的可学习的下采样方法                       | 单佳瑶       | [https://mp.weixin.qq.com/s/I7kukAkwrLAmV2onh0ItSw](https://mp.weixin.qq.com/s/I7kukAkwrLAmV2onh0ItSw) |    |
